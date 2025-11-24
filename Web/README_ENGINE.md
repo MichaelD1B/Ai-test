@@ -1,1 +1,0 @@
-To run Web prototype: Open index.html in a modern browser.

@@ -1,7 +1,0 @@
-Stage 1: Planet manager + gravity query + debug overlay
-Stage 2: Surface alignment + ground detection
-Stage 3: Tangential grounded movement + friction
-Stage 4: Jumping + variable hold + double jump
-Stage 5: Air control, terminal velocity, spin attack
-Stage 6: Camera - surface-aware + collision avoidance
-Stage 7: Demo level + debug UI + polish

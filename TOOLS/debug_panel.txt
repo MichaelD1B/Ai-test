@@ -1,7 +1,0 @@
-Debug toggles to implement:
-show_gravity_vector: true
-show_tangent_axes: false
-show_velocity: true
-show_surface_normal: true
-show_grounded: true
-current_planet_id: true

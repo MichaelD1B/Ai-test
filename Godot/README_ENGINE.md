@@ -1,1 +1,0 @@
-To run Godot prototype: Open project.godot in Godot Editor and run demo.tscn.
