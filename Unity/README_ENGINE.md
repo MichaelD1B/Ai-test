@@ -1,0 +1,1 @@
+To run Unity prototype: Open the Unity/ folder in Unity Editor (version 2020.3 or later). Open Scenes/Demo.unity and press play.
